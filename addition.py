@@ -33,3 +33,8 @@ while a == True:
     else:
 
         exit()
+
+
+# wish method
+def wish():
+    print("test")
